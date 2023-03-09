@@ -22,9 +22,13 @@ The data and the stats are displayed in Portuguese as it's the original language
 - JavaScript
 - TypeScript
 
-## 💻 Status
+## 🔗 Link
 
-🚧 _in progress_
+- [Sales Stats](https://sales-stats.netlify.app/)
+
+## 💻 Screenshot
+
+<img src="github/screenshot.png" alt=""/> <br/>
 
 ## ⚙️ How to use
 
